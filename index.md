@@ -1,18 +1,18 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Ranjish Kumar                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
 motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
   - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
+  - "🔬 Interested in AI Machine Learning"
   - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🚀 I like Outdoor Games"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: www.linkedin.com/in/ranjish-kumar-76413129a
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
