@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like Outdoor Games"
 
 linkedin: www.linkedin.com/in/ranjish-kumar-76413129a
-image:assets/images/pp.png
+image: assets/images/pp.png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
