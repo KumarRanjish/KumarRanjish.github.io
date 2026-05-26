@@ -4,11 +4,11 @@
 # =====================================================
 
 # ----- Identity (shown in SEO + browser tab) -----
-title:Ranjish Kumar                             # <- your name
+title: Ranjish Kumar                             # <- your name
 author: Ranjish Kumar                             # <- your name (shown as post byline)
 description: My CEAMLS SAIRI Summer Research Site  # <- short site tagline
-email:rakum1@morgan.edu                                             # <- (optional) contact email for SEO
-url:https://github.com/KumarRanjish/KumarRanjish.github.io             # <- your final site URL (canonical SEO links)
+email: rakum1@morgan.edu                                             # <- (optional) contact email for SEO
+url: https://github.com/KumarRanjish/KumarRanjish.github.io             # <- your final site URL (canonical SEO links)
 lang: en-US
 
 # ----- Branding (program-wide; rarely changes) -----
