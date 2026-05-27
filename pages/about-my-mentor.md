@@ -18,7 +18,7 @@ graduate_mentor:
 
 faculty_mentor:
   name: Dr. Roshan Poudel
-  title: Associate Professor, School of Engineering
+  title: Professor of pracrtise, Bio- Informactics
   image: /assets/images/faculty-mentor.svg
   website: https://example.com/pat-nguyen
   bio: |
