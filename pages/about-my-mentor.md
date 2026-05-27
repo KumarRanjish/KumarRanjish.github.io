@@ -4,10 +4,10 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
-  title: PhD Candidate, Computer Engineering
+  name: Rasmisa Farha
+  title: PhD Student, Advanced and Equitable Computer
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website: 
   bio: |
     Alex is a PhD candidate working on adaptive systems and embedded machine learning.
     They've been an incredible mentor — patient with my questions and great at helping
@@ -17,12 +17,12 @@ graduate_mentor:
     for undergraduate research participation.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
+  name: Dr. Roshan Poudel
   title: Associate Professor, School of Engineering
   image: /assets/images/faculty-mentor.svg
   website: https://example.com/pat-nguyen
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
+    Dr. Roshan leads a research group focused on human-centered computing and
     accessibility. Their guidance has helped me sharpen my research questions and
     think more carefully about real-world impact.
 
