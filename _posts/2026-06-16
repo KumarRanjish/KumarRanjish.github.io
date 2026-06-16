@@ -1,0 +1,24 @@
+---
+layout: post
+title: "DAY 16- Literature Review and Tau Dataset Exploration"
+date: 2026-06-16
+permalink: /day16.html
+tag: ["onboarding","research"]
+
+
+what_i_learned: |
+   Today, our team began by sharing and discussing the literature review papers that had been assigned to each member. Each person presented the key findings
+   from their paper, which helped us learn about different Alzheimer's disease targets and proteins involved in the disease process. This discussion gave us a
+   broader understanding of potential therapeutic targets and current research directions.After the literature review presentations, we focused on searching for
+   suitable datasets for our project. During this process, I explored several public databases and successfully identified a Tau protein dataset from PubChem. 
+   Tau is a microtubule-associated protein that plays a significant role in Alzheimer's disease, making it an important target for our research.Once I obtained 
+   the dataset, I started the data preprocessing and cleaning phase. I examined the dataset for missing values, duplicate entries, and inconsistencies that could 
+   affect the quality of our analysis. This step is essential because clean and reliable data helps improve the performance and accuracy of machine learning models.
+   Overall, today's activities helped me deepen my understanding of Alzheimer's disease targets, learn from my teammates' literature reviews, and make progress toward 
+   building a high-quality dataset for our AI-driven drug discovery project.
+blockers: |
+  No, blockers today
+  
+reflection: |
+  Now, Today had a very great. Happy Meeting and the Happy Tuesday.
+---
