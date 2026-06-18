@@ -4,20 +4,17 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
+  name: Ranjish Kumar
   role: Junior, Computer Science
-  image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  image: C:\Users\kumar\OneDrive\Pictures
+  linkedin: www.linkedin.com/in/ranjish-kumar-76413129a
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi, I'm Ranjish Kumar, a Computer Science student and aspiring AI researcher passionate about applying machine learning to drug discovery and healthcare innovation.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My interests lie at the intersection of artificial intelligence, machine learning, and healthcare. I am particularly interested in using AI to accelerate drug discovery 
+    and develop innovative solutions for real-world medical challenges, especially in Alzheimer's disease research.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
-
+Outside of academics, I enjoy exploring new technologies, improving my English communication skills, playing cricket and chess, and working on research and coding projects with my peers
   hobbies:
     - icon: 🎨
       title: Digital Art
