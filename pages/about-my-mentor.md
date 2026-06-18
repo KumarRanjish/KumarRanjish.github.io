@@ -5,27 +5,27 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Rasmisa Farha
-  title: PhD Student, Advanced and Equitable Computer
-  image: /assets/images/graduate-student-mentor.svg
-  website: 
+  title: Graduate Student, Advanced and Equitable Computer
+  image: 
+  website:https://scholar.google.com/citations?hl=en&user=3LCaOVAAAAAJ 
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    She is a graduate researcher specializing in neuroscience, medical imaging, and artificial intelligence. Her research focuses on applying AI-driven decision
+    support systems to analyze neuroimaging and healthcare data, with the goal of improving disease detection, diagnosis, and clinical decision-making. She is
+    passionate about leveraging machine learning and medical imaging technologies to address complex healthcare challenges and advance research in neurological 
+    disorders
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    Outside of research, She interested in playing the badminton, she like spending time watching the tv show.Her favorite show is K Drama.
 
 faculty_mentor:
   name: Dr. Roshan Poudel
   title: Professor of pracrtise, Bio- Informactics
-  image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  image: 
+  website: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/?skipRedirect=true
   bio: |
     Dr. Roshan leads a research group focused on human-centered computing and
     accessibility. Their guidance has helped me sharpen my research questions and
     think more carefully about real-world impact.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
+    Dr. Roshan has mentored many SAIRI students and is a champion for broadening
     participation in computing.
 ---
