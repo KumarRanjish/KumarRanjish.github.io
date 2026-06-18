@@ -33,7 +33,7 @@ about:
     - image: assets/images/Ai.png
       caption: Working on AI research projects.
 
-    - image: 
+    - image: assets/images/machinelearning.jpg
       caption: Learning and experimenting with machine learning models.
 
     - image: assets/images/ChatGPT Image Jun 18, 2026, 11_56_18 AM.png
