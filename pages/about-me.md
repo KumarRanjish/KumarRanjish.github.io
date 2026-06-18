@@ -7,7 +7,7 @@ about:
   name: Ranjish Kumar
   role: Junior, Computer Science
   image: /assets/images/profile.jpg
-  linkedin: https://www.linkedin.com/in/ranjish-kumar-76413129a
+  linkedin: /https://www.linkedin.com/in/ranjish-kumar-76413129a
 
   bio: |
     Hi, I'm Ranjish Kumar, a Computer Science student and aspiring AI researcher passionate about applying machine learning to drug discovery and healthcare innovation.
@@ -30,7 +30,7 @@ about:
       description: I enjoy solving problems and improving strategic thinking through chess.
 
   gallery:
-    - image: /assets/images/gallery-1.jpg
+    - image: \C:\Users\kumar\OneDrive\Pictures
       caption: Working on AI research projects.
 
     - image: /assets/images/gallery-2.jpg
