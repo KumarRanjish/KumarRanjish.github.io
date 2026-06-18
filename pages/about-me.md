@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Ranjish Kumar
   role: Junior, Computer Science
-  image: 
+  image: assets/images/pp.png
   linkedin: /https://www.linkedin.com/in/ranjish-kumar-76413129a
 
   bio: |
