@@ -19,7 +19,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Roshan Poudel
   title: Professor of pracrtise, Bio- Informactics
-  image: 
+  image: assets/images/roshan sir.jpg
   website: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/?skipRedirect=true
   bio: |
     Dr. Roshan leads a research group focused on human-centered computing and
