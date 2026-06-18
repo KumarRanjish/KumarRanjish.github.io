@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Ranjish Kumar
   role: Junior, Computer Science
-  image: /assets/images/profile.jpg
+  image: 
   linkedin: /https://www.linkedin.com/in/ranjish-kumar-76413129a
 
   bio: |
@@ -33,9 +33,9 @@ about:
     - image: assets/images/Ai.png
       caption: Working on AI research projects.
 
-    - image: /assets/images/gallery-2.jpg
+    - image: 
       caption: Learning and experimenting with machine learning models.
 
-    - image: /assets/images/gallery-3.jpg
+    - image: assets/images/ChatGPT Image Jun 18, 2026, 11_56_18 AM.png
       caption: Collaborating with friends on coding and research activities.
 ---
