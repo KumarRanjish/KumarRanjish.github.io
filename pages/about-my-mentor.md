@@ -7,7 +7,7 @@ graduate_mentor:
   name: Rasmisa Farha
   title: Graduate Student, Advanced and Equitable Computer
   image: assets/images/ramisa.jpg
-  website:"https://scholar.google.com/citations?hl=en&user=3LCaOVAAAAAJ"
+  website: "https://scholar.google.com/citations?hl=en&user=3LCaOVAAAAAJ"
   bio: |
     She is a graduate researcher specializing in neuroscience, medical imaging, and artificial intelligence. Her research focuses on applying AI-driven decision
     support systems to analyze neuroimaging and healthcare data, with the goal of improving disease detection, diagnosis, and clinical decision-making. She is
@@ -20,7 +20,7 @@ faculty_mentor:
   name: Dr. Roshan Poudel
   title: Professor of pracrtise, Bio- Informactics
   image: assets/images/roshan sir.jpg
-  website:"https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/"
+  website: "https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/"
   bio: |
     Dr. Roshan leads a research group focused on human-centered computing and
     accessibility. Their guidance has helped me sharpen my research questions and
