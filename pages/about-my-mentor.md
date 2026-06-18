@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Rasmisa Farha
   title: Graduate Student, Advanced and Equitable Computer
-  image: 
+  image: assets/images/ramisa.jpg
   website:https://scholar.google.com/citations?hl=en&user=3LCaOVAAAAAJ 
   bio: |
     She is a graduate researcher specializing in neuroscience, medical imaging, and artificial intelligence. Her research focuses on applying AI-driven decision
