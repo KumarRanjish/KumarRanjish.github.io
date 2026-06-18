@@ -30,7 +30,7 @@ about:
       description: I enjoy solving problems and improving strategic thinking through chess.
 
   gallery:
-    - image: \C:\Users\kumar\OneDrive\Pictures
+    - image: \C:\Users\kumar\OneDrive\Pictures\Ai.png
       caption: Working on AI research projects.
 
     - image: /assets/images/gallery-2.jpg
