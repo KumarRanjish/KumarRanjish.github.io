@@ -42,9 +42,9 @@ final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: Ramisha Farha
-  linkedin: https://www.linkedin.com/in/ramisa-farha/
+  linkedin:  "https://www.linkedin.com/in/ramisa-farha/"
 
 faculty_mentor:
   name: Dr. Roshan Poudel
-  linkedin: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
+  linkedin: "https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/"
 ---
