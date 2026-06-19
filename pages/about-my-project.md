@@ -15,19 +15,19 @@ problem: |
 
 
 approach: |
-  **Step 1 — Data Collection & Preprocessing**
+  Step 1 — Data Collection & Preprocessing
   Collect Tau protein-related compound data from public databases such as ChEMBL and PubChem. Clean the dataset, remove duplicates, handle missing values, and prepare molecular        descriptors including MW, LogP, TPSA, HBD, and HBA.
 
- **Step 2 — Feature Engineering & QSAR Development**
+  Step 2 — Feature Engineering & QSAR Development
   Select relevant molecular features and create a QSAR-ready dataset. Analyze the relationship between molecular properties and compound activity to prepare data for machine           learning.
   
-  **Step 3 — Machine Learning Modeling**
+  Step 3 — Machine Learning Modeling
   Train and compare multiple machine learning models, including Decision Tree, Random Forest, and Logistic Regression, to predict promising Alzheimer's disease drug candidates         targeting the Tau protein.
 
-  **Step 4 — Evaluation & Results**
+  Step 4 — Evaluation & Results
   Evaluate model performance using accuracy, precision, recall, F1-score, and confusion matrices. Rank the most promising compounds and present findings through visualizations,        reports, and research presentations.
 
-   This project uses Python and Google Colab as the primary development environment for data analysis and machine learning. Libraries such as Pandas and NumPy are used for data         preprocessing and manipulation, while Scikit-learn is used to build and evaluate machine learning models. The project utilizes Tau protein-related compound datasets obtained from    public databases including ChEMBL and PubChem. Molecular descriptors such as Molecular Weight (MW), LogP, Topological Polar Surface Area (TPSA), Hydrogen Bond Donors (HBD), and      Hydrogen Bond Acceptors (HBA) are used as features for QSAR (Quantitative Structure–Activity Relationship) modeling. Machine learning algorithms including Decision Tree, Random      Forest, and Logistic Regression are applied to predict promising drug candidates. Model performance is evaluated using metrics such as accuracy, precision, recall, F1-score, and     confusion matrices to identify the most effective predictive approach.
+  This project uses Python and Google Colab as the primary development environment for data analysis and machine learning. Libraries such as Pandas and NumPy are used for data         preprocessing and manipulation, while Scikit-learn is used to build and evaluate machine learning models. The project utilizes Tau protein-related compound datasets obtained from    public databases including ChEMBL and PubChem. Molecular descriptors such as Molecular Weight (MW), LogP, Topological Polar Surface Area (TPSA), Hydrogen Bond Donors (HBD), and      Hydrogen Bond Acceptors (HBA) are used as features for QSAR (Quantitative Structure–Activity Relationship) modeling. Machine learning algorithms including Decision Tree, Random      Forest, and Logistic Regression are applied to predict promising drug candidates. Model performance is evaluated using metrics such as accuracy, precision, recall, F1-score, and     confusion matrices to identify the most effective predictive approach.
 
 
 outcome: |
@@ -42,7 +42,7 @@ final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: Ramisha Farha
-  linkedin:  "https://www.linkedin.com/in/ramisa-farha/"
+  linkedin: "https://www.linkedin.com/in/ramisa-farha/"
 
 faculty_mentor:
   name: Dr. Roshan Poudel
